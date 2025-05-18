@@ -30,6 +30,7 @@
 
 ## 📁 项目结构
 
+```
 pvz-clone/
 ├── res/              # 图片、音效等资源
 │   ├── audio/
@@ -44,7 +45,7 @@ pvz-clone/
 ├── tools.h
 ├── PlantsVSZombies.exe    # 游戏入口
 └── README.md         # 项目说明
-
+```
 ---
 
 ## 🚀 快速开始
